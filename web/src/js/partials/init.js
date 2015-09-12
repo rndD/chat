@@ -5,4 +5,4 @@ Object.keys(window.Handlers).forEach(function (bindFunctionEvent) {
 });
 window.Handlers = {
     click: {}
-}
+};
