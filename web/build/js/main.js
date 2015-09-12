@@ -1,7 +1,0 @@
-/*
- * third party
- */
-
-/*
- * my scripts
- */
