@@ -1,5 +1,8 @@
 # chat
 
+* nodejs
+* mongobb
+
 vjs.cloudapp.net
 
 export PATH="/brew/bin:$PATH"
